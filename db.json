@@ -1,0 +1,48 @@
+[
+  {
+    "ref": "ans_5d433fc5-cd83-45a2-a9f3-875c7c9b1f49",
+    "keyword": "key_0bb72a79-14a2-4935-b6dd-59a8f9ded312",
+    "answer": "Conectando con el aeropuerto...",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "00f5bef2c6e12c42fcc1115907c28511",
+    "from": "584149270530"
+  },
+  {
+    "ref": "7254634e-b959-403b-afd0-1268e090001a",
+    "answer": "``` *Vuelo*-- *Origen*-- *Hora*-- *Status*\nVN 332-->PORLAMAR-->18:30 18:10--> LLEGO \n_______________\n5R 323-->MARACAIBO-->18:30 18:31--> LLEGO \n_______________\n9V 071-->BARQUISIMETO-->18:40 19:15--> LLEGO \n_______________\n9V 023-->PORLAMAR-->19:00 18:58--> LLEGO \n_______________\nQL 905-->PORLAMAR-->19:10 18:41--> LLEGO \n_______________\nVO 095-->MARACAIBO-->19:40 21:16--> LLEGO \n_______________\nES 814-->PORLAMAR-->21:00 20:11--> LLEGO \n_______________\n5R 307-->PTO ORDAZ-->06:50--> PROGRAMADO \n_______________\nVN 220-->MARACAIBO-->07:00--> PROGRAMADO \n_______________\nQL 907-->PORLAMAR-->07:30--> PROGRAMADO \n_______________\n5R 1346-->MATURIN-->07:30--> PROGRAMADO \n_______________\n9V 041-->BARCELONA-->07:45--> PROGRAMADO \n_______________\nQL 941-->MARACAIBO-->08:00--> PROGRAMADO \n_______________\n9V 061-->PTO ORDAZ-->08:00--> PROGRAMADO \n_______________\nCVZ 1704-->LOS ROQUES-->09:00--> PROGRAMADO \n_______________\nVN 222-->MARACAIBO-->09:00--> PROGRAMADO \n_______________\nVO 1151-->LOS ROQUES-->09:50--> PROGRAMADO \n_______________\nVO 1187-->SAN ANTONIO-->10:00--> PROGRAMADO \n_______________\n5R 353-->BARCELONA-->10:20--> PROGRAMADO \n_______________\nES 824-->PTO ORDAZ-->10:40--> PROGRAMADO \n_______________\nES 8302-->SAN ANTONIO-->11:00--> PROGRAMADO \n_______________\nBSV 2113-->LOS ROQUES-->11:30--> PROGRAMADO \n_______________\nQL 921-->EL VIGIA-->12:00--> PROGRAMADO \n_______________\n9V 075-->MARACAIBO-->12:00--> PROGRAMADO \n_______________\n5R 326-->STO DOMINGO-->12:10--> PROGRAMADO \n_______________\n ```",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584149270530",
+    "refSerialize": "c936bd1438b521fe30ab035b393dadfd"
+  },
+  {
+    "ref": "ans_9fcd6fdb-e811-49d8-8262-771cd7147414",
+    "keyword": "ans_5d433fc5-cd83-45a2-a9f3-875c7c9b1f49",
+    "answer": "llegadas",
+    "options": {
+      "media": "ejemplo.png",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "17bb352e4d3cddfbd7d411d2b81da760",
+    "from": "584149270530"
+  }
+]

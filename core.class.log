@@ -1,0 +1,52 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584149270530@s.whatsapp.net',
+    fromMe: false,
+    id: '54148EA852A5D8E291A96F3C32A2BBF9',
+    participant: undefined
+  },
+  messageTimestamp: 1698639796,
+  pushName: 'Yorfre Meriño',
+  broadcast: false,
+  message: Message {
+    conversation: 'Linter',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Linter',
+  from: '584149270530'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d433fc5-cd83-45a2-a9f3-875c7c9b1f49',
+  keyword: 'key_0bb72a79-14a2-4935-b6dd-59a8f9ded312',
+  answer: 'Conectando con el aeropuerto...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '00f5bef2c6e12c42fcc1115907c28511'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fcd6fdb-e811-49d8-8262-771cd7147414',
+  keyword: 'ans_5d433fc5-cd83-45a2-a9f3-875c7c9b1f49',
+  answer: 'llegadas',
+  options: {
+    media: 'ejemplo.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '17bb352e4d3cddfbd7d411d2b81da760'
+}
