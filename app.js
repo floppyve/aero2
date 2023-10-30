@@ -15,7 +15,7 @@ null,
 async(_,{flowDynamic})=>{
      const header = randomUseragent.getRandom();
      const browser = await puppeteer.launch({
-        //executablePath: '/usr/bin/chromium',
+        executablePath: '/usr/bin/chromium',
       timeout: 0,
        args: [
            '--disable-gpu',
